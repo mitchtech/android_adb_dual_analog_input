@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ADB Dual Analog Input</string>
+    <string name="x_text">X:</string>
+    <string name="y_text">Y:</string>
+
+</resources>
